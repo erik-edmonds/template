@@ -1,0 +1,33 @@
+{
+  "colorSchemes": {
+    "light": {
+      "palette": {
+        "primary": {
+          "solidColor": "#FFFFFF",
+          "solidBg": "#272727",
+          "solidActiveBg": "#9A9797",
+          "solidHoverBg": "#C1BCBC",
+          "solidDisabledColor": "#8E8C8C",
+          "solidDisabledBg": "#F9F7F7",
+          "softColor": "#FFFFFF",
+          "softHoverBg": "#EFEDED",
+          "softBg": "#ADAAAA",
+          "softDisabledColor": "#FFFFFF",
+          "softDisabledBg": "#EAEAEA",
+          "outlinedBorder": "#000000",
+          "outlinedColor": "#000000",
+          "outlinedHoverBg": "#E0DFDF",
+          "outlinedHoverBorder": "#000000",
+          "outlinedActiveBg": "#AFADAD",
+          "outlinedDisabledBorder": "#5C5C5C",
+          "outlinedDisabledColor": "#DEDEDE",
+          "softActiveBg": "#5C5B5B",
+          "plainColor": "#121212",
+          "plainHoverBg": "#AFAFAF",
+          "plainActiveBg": "#6B6A6A",
+          "plainDisabledColor": "#0C0C0C"
+        }
+      }
+    }
+  }
+}

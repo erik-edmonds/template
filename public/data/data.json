@@ -1,0 +1,83 @@
+[
+  {
+    "categoryName": "Machine Learning",
+    "categoryKey": "machine-learning",
+    "applied":true,
+    "data":
+      [
+        {
+          "sectionId": 1,
+          "title": "3D Gaussian Splatting",
+          "key":"gaussian-splatting",
+          "model": "/assets/duck.glb",
+          "detail":"Creation of 3D models from pictures using 3D Gaussian Splatting"
+        },
+        {
+          "sectionId": 2,
+          "title": "Stable Diffusion",
+          "key":"stable-diffusion",
+          "model": "/assets/dog.glb",
+          "detail":"Creation of 3D models from pictures using 3D Gaussian Splatting,TODO: Add the spiderverse model"
+        },
+        {
+          "sectionId": 3,
+          "title": "Lyft",
+          "key":"lyft",
+          "model": "/assets/duck.glb",
+          "detail":"Creation of 3D models from pictures using 3D Gaussian Splatting,TODO: Add the spiderverse model"
+        },
+        {
+          "sectionId": 4,
+          "title": "NeRF",
+          "category": "machine-learning",
+          "key":"nerf",
+          "model": "/assets/dog.glb",
+          "detail":"Creation of 3D models from pictures using 3D Gaussian Splatting,TODO: Add the spiderverse model"
+        }]
+  },
+  {
+    "categoryName": "Computer Vision",
+    "categoryKey": "computer-vision",
+    "applied":true,
+    "data":
+    [
+      {
+        "sectionId": 1,
+        "title": "",
+        "key": "default",
+        "model": "/assets/duck.glb",
+        "detail":""
+      }
+    ]
+  },
+  {
+    "categoryName": "Visualizations",
+    "categoryKey": "visualizations",
+    "applied":true,
+    "data":
+      [
+        {
+          "sectionId": 1,
+          "title": "Sensor Fusion Visualization",
+          "key": "sensor-fusion",
+          "model": "/assets/dog.glb",
+          "detail":"Creation of 3D models from pictures using 3D Gaussian Splatting,TODO: Add the spiderverse model"
+        }
+      ]
+  },
+  {
+    "categoryName": "Hobbies",
+    "categoryKey": "hobbies",
+    "applied":true,
+    "data":
+    [
+      {
+        "sectionId": 1,
+        "title": "Spiderverse Animation",
+        "key": "spiderverse",
+        "logo": true,
+        "detail": "Creation of 3D models from pictures using 3D Gaussian Splatting,TODO: Add the spiderverse model"
+      }
+    ]
+  }
+]

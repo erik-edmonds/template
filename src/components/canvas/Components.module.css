@@ -1,0 +1,12 @@
+.container {
+    position: relative;
+    cursor: pointer;
+}
+
+.item {
+    width: 100%;
+    height: 100%;
+    background: white;
+    border-radius: 5px;
+    will-change: transform, opacity;
+}
